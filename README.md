@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Joe Doe!
+# Hi there 👋, I'm Thiago Nogueira!
 
 ## About Me
 - 🌱 I’m currently learning **Docker & Kubernetes**  
