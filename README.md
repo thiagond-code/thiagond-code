@@ -27,11 +27,38 @@
 
 Here are some projects I’m proud of:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thiagond-code&repo=thiagond-code%2Fthiagond&theme=apprentice)](https://github.com/thiagond-code/thiagond)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thiagond-code&repo=thiagond-code%2Fbinomial&theme=apprentice)](https://github.com/thiagond-code/binomial)
-
+<table border="0">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/thiagond-code/thiagond">
+        <img
+          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagond-code&repo=thiagond-code%2Fthiagond&theme=apprentice"
+          width="400"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/thiagond-code/binomial">
+        <img
+          src="https://github-stats-extended.vercel.app/api/pin/?username=thiagond-code&repo=binomial&theme=apprentice"
+          width="400"
+        />
+      </a>
+    </td>
+    <br />
+    <td width="150"></td>
+    <td valign="top">
+      <a href="https://open.spotify.com/user/thiagond">
+        <img
+          src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=thiagond"
+          alt="Spotify recently played"
+          width="400"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 </section>
+
 
 ## Contact Me
 - 📫 Email: [thiagond360@gmail.com](mailto:thiagond360@gmail.com)  
